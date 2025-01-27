@@ -1,0 +1,29 @@
+/* .attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+} */
+
+body {
+    background-color: #D5E1EF;
+}
+
+.card {
+    width: 320px;
+    height: 499;
+    background-color: white;
+    border-radius: 20px;
+}
+
+img {
+    width: 288px;
+    height: 288px;
+    border
+}
+
+#code {
+    border-radius: 10px;
+}
