@@ -16,6 +16,10 @@ body {
     height: 499;
     background-color: white;
     border-radius: 20px;
+    padding: 16px 16px 40px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
 }
 
 img {
