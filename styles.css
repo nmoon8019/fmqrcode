@@ -151,6 +151,21 @@ body {
 
 }
 
+.visually-hidden {
+
+    position: absolute;
+  
+    width: 1px;
+  
+    height: 1px;
+  
+    overflow: hidden;
+  
+    clip: rect(1px, 1px, 1px, 1px);
+  
+    /* For older browsers, consider using clip-path: inset(50%); */ 
+  
+  }
 .card {
     background-color: white;
     display: flex;
